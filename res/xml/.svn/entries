@@ -1,0 +1,52 @@
+8
+
+dir
+21494
+http://172.20.70.59/svn/svn_procit_devprojects/SamenSafe/source/trunk/res/xml
+http://172.20.70.59/svn/svn_procit_devprojects
+
+
+
+2014-03-05T07:58:05.255375Z
+18168
+nepal
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+213dfcf3-0b11-44a0-a662-ccd6861ea095
+
+authenticator.xml
+file
+
+
+
+
+2014-08-19T07:09:22.450433Z
+b351cea0a5eb87cc0357baca4bc27e73
+2014-03-05T07:58:05.255375Z
+18168
+nepal
+
+prefs.xml
+file
+
+
+
+
+2014-08-19T07:09:22.431428Z
+402872c7a9112f6845fc84a9118f6940
+2014-03-05T07:58:05.255375Z
+18168
+nepal
+

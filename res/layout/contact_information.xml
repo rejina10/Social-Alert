@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ContactMainLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#E6E7E8"
+    android:orientation="vertical"
+    >
+
+    <TableLayout
+        android:id="@+id/lblWrapper"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:padding="4dp" >
+
+        <TableRow
+            android:id="@+id/rowErrorMsg"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/txtErrorMsg"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="Required fields are not filled"
+                android:textColor="@color/red"
+                android:textSize="15sp" />
+        </TableRow>
+    </TableLayout>
+
+    <ScrollView
+        android:id="@+id/scroll"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lblWrapper"
+        android:padding="1dp" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="10dp"
+             >
+
+            <LinearLayout
+                android:id="@+id/tableWrapper"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!-- <include layout="@layout/contact_template" /> -->
+
+            </LinearLayout>
+            
+            <RelativeLayout
+                android:id="@+id/txtExtraContact"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+				android:layout_marginBottom="50dp"
+				android:background="@color/lauren"
+				android:layout_marginTop="5dp">
+
+                <TextView
+                    android:id="@+id/lblExtraContact"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:textSize="15sp"
+                    android:textColor="#ffffff"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@id/lblExtraContact"
+                    android:src="@drawable/add" 
+                    />
+            </RelativeLayout>
+
+	
+            
+            <!-- <Button
+                android:id="@+id/txtExtraContact"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:drawableLeft="@drawable/add"
+                android:drawablePadding="-1sp"
+                android:drawingCacheQuality="auto"
+                android:gravity="center"
+                android:layout_marginTop="5dp"
+                android:paddingRight="10dp"
+                android:paddingTop="0dp"
+                android:paddingBottom="0dp"
+                android:layout_marginBottom="50dp"
+                android:textSize="15sp"
+                android:text="Extra Contact"
+                android:background="#10b1e5"
+                android:textColor="#ffffff" /> -->
+
+        </LinearLayout>
+    </ScrollView>
+
+
+    <RelativeLayout
+        android:id="@+id/bottomMenus"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#E6E7E8"
+        android:orientation="vertical" >
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/lauren" />
+
+        <LinearLayout
+            android:id="@+id/bottom"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/btnBack"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_gravity="left|center_vertical|center_horizontal"
+                android:layout_weight="0.3"
+                android:background="@android:color/transparent"
+                android:text="Back"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:id="@+id/line"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight="0.2"
+                android:src="@drawable/vertical_line" />
+
+            <Button
+                android:id="@+id/btnFinish"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_gravity="right|center_vertical|center_horizontal"
+                android:layout_weight="0.3"
+                android:background="@android:color/transparent"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

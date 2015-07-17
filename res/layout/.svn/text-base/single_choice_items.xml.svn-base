@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.socialalert.custom.view.CheckableRelativeLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	android:layout_marginRight="15dp"
+	android:paddingTop="5dp"
+	android:paddingBottom="5dp">
+
+
+	<com.android.socialalert.custom.view.InertCheckBox 
+	    android:id="@+id/singleitemCheckBox"
+		android:layout_width="72dp" 
+		android:layout_height="wrap_content"		
+		android:layout_alignParentRight="true" 
+		android:layout_centerVertical="true" 
+		android:focusable="false" 
+		android:button="@drawable/single_radio_chice" />
+	
+	<TextView
+	    android:id="@+id/singleitemId" 
+		android:layout_width="wrap_content"
+		android:layout_height="fill_parent" 
+		android:layout_alignParentLeft="true"
+		android:layout_centerVertical="true" 
+		android:layout_marginLeft="20dp"
+		android:textSize="18sp" 
+		android:focusable="false" 
+		/>
+			
+</com.android.socialalert.custom.view.CheckableRelativeLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hint_required_field">(Required)</string>
+    <string name="app_name">SamenSafeOne</string>
+    <string name="label">SamenSafeOne</string>
+    <string name="regex_email">^([^@\\s]+)@((?:[-a-z0-9]+\\.)+[a-z]{2,})$</string>
+	<string name="regex_phone">^\\(?\\d{3}[\\)?|-]\\d{3}[- ]\\d{4}((\\s=?)(ext\\.|x)\\d{1,4})?$</string>
+	<string name="regex_postal_code">^\\d{5}(-\\d{4})?$</string>
+   	<string name="open">Open</string>
+   	<string name="close">Close</string>
+   	<string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    
+    <string name="spinner_prompt">Select language</string>
+    
+</resources>

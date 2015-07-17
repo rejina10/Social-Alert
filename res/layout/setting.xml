@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E6E7E9"
+    android:orientation="vertical" >
+
+    <!--
+         <TextView
+        android:id="@+id/txtSetting"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Social Alert Setting"
+        android:gravity="center_horizontal" 
+        android:textSize="20dp"/>
+    -->
+
+	<ListView
+        android:id="@+id/SettingList"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:choiceMode="singleChoice"
+        android:divider="#C0C0C0"
+    	android:dividerHeight="2dp"
+        android:background="#E6E7E8"
+        android:listSelector="@drawable/listview_background"/>
+    <!-- <ListView
+        android:id="@+id/SettingList"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:divider="@color/black"
+        android:dividerHeight="1dp" >
+    </ListView> -->
+
+</LinearLayout>

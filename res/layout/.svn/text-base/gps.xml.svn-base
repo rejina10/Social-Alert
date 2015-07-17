@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txtEnableGps"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="5dip"
+        android:textColor="@color/lightBlue"
+        android:textSize="20dip" >
+    </TextView>
+
+    <RelativeLayout
+        android:id="@+id/LinearLayout01"
+        android:layout_below="@+id/txtEnableGps"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <Button
+            android:id="@+id/gps_sett_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+             >
+        </Button>
+
+        <!-- <Button
+            android:id="@+id/gps_cancel_button"
+            android:layout_width="130dip"
+            android:layout_height="wrap_content"
+            android:text="Cancel" >
+        </Button> -->
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,41 @@
+8
+
+dir
+21494
+http://172.20.70.59/svn/svn_procit_devprojects/SamenSafe/source/trunk/keystore
+http://172.20.70.59/svn/svn_procit_devprojects
+
+
+
+2014-03-05T07:58:05.255375Z
+18168
+nepal
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+213dfcf3-0b11-44a0-a662-ccd6861ea095
+
+procit_android.keystore
+file
+
+
+
+
+2014-08-19T07:09:14.055163Z
+33882de9ef0ece18785bb99ef6d7f834
+2014-03-05T07:58:05.255375Z
+18168
+nepal
+has-props
+

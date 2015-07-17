@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/svn_procit_devprojects/!svn/ver/19586/SamenSafe/source/trunk/res/layout
+END
+contact_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/svn_procit_devprojects/!svn/ver/18625/SamenSafe/source/trunk/res/layout/contact_list.xml
+END
+alert_info_details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/svn_procit_devprojects/!svn/ver/19586/SamenSafe/source/trunk/res/layout/alert_info_details.xml
+END
+drawer_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/drawer_main.xml
+END
+multiple_alert_received.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/svn_procit_devprojects/!svn/ver/18625/SamenSafe/source/trunk/res/layout/multiple_alert_received.xml
+END
+layout_shakecontrol.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/layout_shakecontrol.xml
+END
+fragment_alert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/svn_procit_devprojects/!svn/ver/18428/SamenSafe/source/trunk/res/layout/fragment_alert.xml
+END
+receive_alerts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/svn_procit_devprojects/!svn/ver/19586/SamenSafe/source/trunk/res/layout/receive_alerts.xml
+END
+drawer_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/drawer_list_item.xml
+END
+contact_information.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/svn_procit_devprojects/!svn/ver/18259/SamenSafe/source/trunk/res/layout/contact_information.xml
+END
+alertlist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/alertlist.xml
+END
+qustom_dialog_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/qustom_dialog_layout.xml
+END
+layout_login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/layout_login.xml
+END
+sherlock_custom_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/sherlock_custom_title.xml
+END
+listview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/listview.xml
+END
+custom_optionsmenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/custom_optionsmenu.xml
+END
+alertpopupdialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/alertpopupdialog.xml
+END
+layout_selectlanguage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/layout_selectlanguage.xml
+END
+register_user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/svn_procit_devprojects/!svn/ver/18625/SamenSafe/source/trunk/res/layout/register_user.xml
+END
+fragment1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/fragment1.xml
+END
+fragment2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/fragment2.xml
+END
+layout_editmainuser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/svn_procit_devprojects/!svn/ver/18259/SamenSafe/source/trunk/res/layout/layout_editmainuser.xml
+END
+fragment3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/fragment3.xml
+END
+gps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/gps.xml
+END
+view_contact_information.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/view_contact_information.xml
+END
+contact_templatee.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/svn_procit_devprojects/!svn/ver/18625/SamenSafe/source/trunk/res/layout/contact_templatee.xml
+END
+single_choice_items.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/single_choice_items.xml
+END
+sentalertlist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/svn_procit_devprojects/!svn/ver/19586/SamenSafe/source/trunk/res/layout/sentalertlist.xml
+END
+alert_recieved_popup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/svn_procit_devprojects/!svn/ver/18180/SamenSafe/source/trunk/res/layout/alert_recieved_popup.xml
+END
+contact_details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/svn_procit_devprojects/!svn/ver/18178/SamenSafe/source/trunk/res/layout/contact_details.xml
+END
+custom_titlebar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/svn_procit_devprojects/!svn/ver/18623/SamenSafe/source/trunk/res/layout/custom_titlebar.xml
+END
+listview_accepted_rejected.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/listview_accepted_rejected.xml
+END
+map_location.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/map_location.xml
+END
+header_gradient.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/header_gradient.xml
+END
+alert_statuslist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/alert_statuslist.xml
+END
+alert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/alert.xml
+END
+forget_password.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/svn_procit_devprojects/!svn/ver/18181/SamenSafe/source/trunk/res/layout/forget_password.xml
+END
+alert_recieved_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/alert_recieved_list.xml
+END
+login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/svn_procit_devprojects/!svn/ver/18194/SamenSafe/source/trunk/res/layout/login.xml
+END
+map_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/map_layout.xml
+END
+setting_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/setting_layout.xml
+END
+alert_received_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/alert_received_layout.xml
+END
+layout_language_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/layout_language_list.xml
+END
+layout_pswchange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/layout_pswchange.xml
+END
+contactlist_rowlayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/svn_procit_devprojects/!svn/ver/18623/SamenSafe/source/trunk/res/layout/contactlist_rowlayout.xml
+END
+gallery_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/gallery_item.xml
+END
+setting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/setting.xml
+END
+slider_right.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/svn_procit_devprojects/!svn/ver/18168/SamenSafe/source/trunk/res/layout/slider_right.xml
+END

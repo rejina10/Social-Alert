@@ -1,0 +1,52 @@
+8
+
+dir
+21494
+http://172.20.70.59/svn/svn_procit_devprojects/SamenSafe/source/trunk/src/com/android/socialalert/service
+http://172.20.70.59/svn/svn_procit_devprojects
+
+
+
+2014-03-24T02:54:41.979943Z
+18784
+nepal
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+213dfcf3-0b11-44a0-a662-ccd6861ea095
+
+Shake_Listener.java
+file
+
+
+
+
+2014-08-19T07:09:15.380243Z
+55d9c8659ffe4d71ceaa886e84c48b4b
+2014-03-19T10:01:41.559233Z
+18709
+nepal
+
+AlertService.java
+file
+
+
+
+
+2014-08-19T07:09:15.358239Z
+8e3d82b1d17205efd116a029b00d05eb
+2014-03-24T02:54:41.979943Z
+18784
+nepal
+

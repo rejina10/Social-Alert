@@ -1,0 +1,54 @@
+8
+
+dir
+21494
+http://172.20.70.59/svn/svn_procit_devprojects/SamenSafe/source/trunk/libs
+http://172.20.70.59/svn/svn_procit_devprojects
+
+
+
+2014-03-05T07:58:05.255375Z
+18168
+nepal
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+213dfcf3-0b11-44a0-a662-ccd6861ea095
+
+slf4j-android-1.5.8.jar
+file
+
+
+
+
+2014-08-19T07:09:22.126410Z
+f29d10c43096c8dc9bc1b00314c7a2c1
+2014-03-05T07:58:05.255375Z
+18168
+nepal
+has-props
+
+osmdroid-android-3.0.8.jar
+file
+
+
+
+
+2014-08-19T07:09:22.101412Z
+4a9a74965282386515a6abfa8f58e24b
+2014-03-05T07:58:05.255375Z
+18168
+nepal
+has-props
+

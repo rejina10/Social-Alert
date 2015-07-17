@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E6E7E8"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:id="@+id/alertMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dip" 
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:textSize="16sp"
+        android:lines="4" />
+
+    <ListView
+        android:id="@+id/AlertList"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dip"
+        android:divider="@color/lauren"
+        android:dividerHeight="1dp" 
+        android:background="#E6E7E8"
+        android:listSelector="@drawable/listview_background">
+    </ListView>
+
+</LinearLayout>

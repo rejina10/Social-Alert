@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E6E7E8"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/bottomMenus"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#E6E7E8"
+        android:orientation="vertical" >
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/lauren" />
+
+        <LinearLayout
+            android:id="@+id/bottom"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_marginBottom="50dp"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/btnBack"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_gravity="left|center_vertical|center_horizontal"
+                android:layout_weight="0.3"
+                android:background="@android:color/transparent"
+                android:text="Back"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:id="@+id/line"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight="0.1"
+                android:src="@drawable/vertical_line" />
+            
+
+            <Button
+                android:id="@+id/btnAddContact"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical|center_horizontal|right"
+                android:layout_weight="0.6"
+                android:background="@android:color/transparent"
+                android:text="Add new contacts"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </RelativeLayout>
+    
+    <ListView
+        android:id="@+id/contactlist"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:cacheColorHint="#00000000"
+        android:divider="@color/lauren"
+        android:dividerHeight="1px" 
+        android:layout_above="@id/bottomMenus"
+        android:listSelector="@drawable/listview_background"/>
+    
+    <TextView
+        android:id="@+id/contactMessage"
+        android:layout_above="@id/contactlist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="15dip"
+        android:layout_marginTop="5dp"
+        android:lines="4"
+        android:textSize="16sp" />
+
+    
+     <!-- <LinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/lineLinear"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="@color/lauren" 
+        android:layout_below="@+id/contactlist"/> -->
+
+    
+
+</RelativeLayout>

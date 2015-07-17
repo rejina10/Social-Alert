@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/RelativeLayout1"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:background="#d8dff2"
+android:orientation="vertical" >
+
+<!-- <Button
+android:id="@+id/button1"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_centerHorizontal="true"
+android:layout_centerVertical="true"
+android:layout_marginTop="183dp"
+android:background="#3790e8"
+android:text="Start a floating Activity" />
+ -->
+</RelativeLayout>

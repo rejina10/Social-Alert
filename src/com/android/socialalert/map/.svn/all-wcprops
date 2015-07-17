@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/svn_procit_devprojects/!svn/ver/18625/SamenSafe/source/trunk/src/com/android/socialalert/map
+END
+MyItemizedOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/svn_procit_devprojects/!svn/ver/18435/SamenSafe/source/trunk/src/com/android/socialalert/map/MyItemizedOverlay.java
+END
+GPS_Tracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/svn_procit_devprojects/!svn/ver/18625/SamenSafe/source/trunk/src/com/android/socialalert/map/GPS_Tracker.java
+END
+SenderMapLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/svn_procit_devprojects/!svn/ver/18625/SamenSafe/source/trunk/src/com/android/socialalert/map/SenderMapLocation.java
+END
+GPSTrackerBroadCastReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/svn_procit_devprojects/!svn/ver/18625/SamenSafe/source/trunk/src/com/android/socialalert/map/GPSTrackerBroadCastReceiver.java
+END

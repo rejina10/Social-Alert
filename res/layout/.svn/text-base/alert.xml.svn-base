@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E6E7E8"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/timer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#d44937"
+        android:textSize="48dp" />
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bottomMenus"
+        android:layout_below="@id/timer"
+        android:cacheColorHint="@android:color/transparent"
+        android:choiceMode="singleChoice" 
+        android:listSelector="@drawable/listview_background">
+    </ListView>
+
+    
+
+    <RelativeLayout
+        android:id="@+id/bottomMenus"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"> 
+       
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/lauren" />
+
+        <LinearLayout
+            android:id="@+id/bottom"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/btnSend"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_gravity="left|center_vertical|center_horizontal"
+                android:layout_weight="0.3"
+                android:background="@android:color/transparent"
+                android:text="Send"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:id="@+id/line"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight="0.2"
+                android:src="@drawable/vertical_line" />
+
+            <Button
+                android:id="@+id/btnCancel"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_gravity="right|center_vertical|center_horizontal"
+                android:layout_weight="0.3"
+                android:background="@android:color/transparent"
+                android:text="Cancel"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </RelativeLayout>
+    
+   
+
+</RelativeLayout>

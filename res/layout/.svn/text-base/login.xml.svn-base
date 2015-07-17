@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/loginMainLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#E6E7E8"
+        android:orientation="vertical"
+        android:padding="10dip" >
+
+        <include layout="@layout/layout_login" />
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#E6E7E8"
+            android:orientation="vertical"
+            android:padding="1dp" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/lblEmail"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Email"
+                    android:textColor="#372c24"
+                    android:textSize="20sp" />
+
+                <EditText
+                    android:id="@+id/login_EmailAddress"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:background="@drawable/edit_text_color"
+                    android:fadingEdge="horizontal"
+                    android:focusable="true"
+                    android:inputType="textEmailAddress"
+                    android:singleLine="true" />
+
+                <!-- Password Label -->
+
+                <TextView
+                    android:id="@+id/lblPassword"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Password"
+                    android:textColor="#372c24"
+                    android:textSize="20sp" />
+
+                <EditText
+                    android:id="@+id/loginPassword"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:background="@drawable/edit_text_color"
+                    android:fadingEdge="horizontal"
+                    android:focusable="true"
+                    android:inputType="textPassword"
+                    android:singleLine="true" />
+
+                <!-- Check Box -->
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:paddingTop="3dp"
+                    android:weightSum="1" >
+
+                    <CheckBox
+                        android:id="@+id/chkRememberMe"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:button="@drawable/custom_check_box"
+                        android:textColor="#000000" />
+
+                    <TextView
+                        android:id="@+id/lblRememberMe"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Remember me"
+                        android:textColor="#372c24"
+                        android:textSize="20sp" />
+                </LinearLayout>
+
+                <!-- Login button -->
+
+                <Button
+                    android:id="@+id/btnLogin"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dip"
+                    android:background="@drawable/button_layout"
+                    android:text="Login"
+                    android:textColor="#000000" />
+
+                <!-- Link to Registration Screen -->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="40dip"
+                    android:orientation="horizontal"
+                    android:weightSum="1" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:orientation="vertical"
+                        android:paddingLeft="5dp"
+                        android:weightSum="1" >
+
+                        <TextView
+                            android:id="@+id/link_to_register"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="10dip"
+                            android:gravity="center"
+                            android:text="Click here if not registered"
+                            android:textColor="@color/text_color"
+                            android:textSize="20dip" />
+
+                        <TextView
+                            android:id="@+id/forgotPassword"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Click here if forgot password"
+                            android:textColor="@color/text_color"
+                            android:textSize="20dip" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <!-- Login Form Ends -->
+
+    <ImageView
+        android:id="@+id/ImageLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/client_logo"
+        android:layout_gravity="right|bottom"
+        android:layout_margin="10dp" />
+
+</FrameLayout>

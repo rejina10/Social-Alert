@@ -1,0 +1,52 @@
+8
+
+dir
+21494
+http://172.20.70.59/svn/svn_procit_devprojects/SamenSafe/source/trunk/src/com/android/socialalert/logger
+http://172.20.70.59/svn/svn_procit_devprojects
+
+
+
+2014-03-18T08:27:35.151992Z
+18625
+nepal
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+213dfcf3-0b11-44a0-a662-ccd6861ea095
+
+PMWF_Log.java
+file
+
+
+
+
+2014-08-19T07:09:14.800227Z
+396721944425e6a74a87d497326907d9
+2014-03-13T08:52:53.348826Z
+18435
+nepal
+
+LogWriter.java
+file
+
+
+
+
+2014-08-19T07:09:14.821209Z
+8169bc0d9e761fbf8f3b9207f303ae79
+2014-03-18T08:27:35.151992Z
+18625
+nepal
+

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/svn_procit_devprojects/!svn/ver/19586/SamenSafe/source/trunk/src/com/android/socialalert
+END
+FragmentMainAlert.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/svn_procit_devprojects/!svn/ver/19586/SamenSafe/source/trunk/src/com/android/socialalert/FragmentMainAlert.java
+END
+ContactInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/svn_procit_devprojects/!svn/ver/18760/SamenSafe/source/trunk/src/com/android/socialalert/ContactInformation.java
+END
+MenuListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/svn_procit_devprojects/!svn/ver/18633/SamenSafe/source/trunk/src/com/android/socialalert/MenuListAdapter.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/svn_procit_devprojects/!svn/ver/19586/SamenSafe/source/trunk/src/com/android/socialalert/Person.java
+END
+CustomBaseAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/svn_procit_devprojects/!svn/ver/19586/SamenSafe/source/trunk/src/com/android/socialalert/CustomBaseAdapter.java
+END
+FragmentSelectLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/svn_procit_devprojects/!svn/ver/19586/SamenSafe/source/trunk/src/com/android/socialalert/FragmentSelectLanguage.java
+END
+ContactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/svn_procit_devprojects/!svn/ver/18623/SamenSafe/source/trunk/src/com/android/socialalert/ContactInfo.java
+END
+AlertPopUpActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/svn_procit_devprojects/!svn/ver/18625/SamenSafe/source/trunk/src/com/android/socialalert/AlertPopUpActivity.java
+END
+AlertShow.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/svn_procit_devprojects/!svn/ver/18435/SamenSafe/source/trunk/src/com/android/socialalert/AlertShow.java
+END
+Logout.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/svn_procit_devprojects/!svn/ver/18625/SamenSafe/source/trunk/src/com/android/socialalert/Logout.java
+END
+SettingListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/svn_procit_devprojects/!svn/ver/18625/SamenSafe/source/trunk/src/com/android/socialalert/SettingListAdapter.java
+END
+AlertPopUpDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/svn_procit_devprojects/!svn/ver/19586/SamenSafe/source/trunk/src/com/android/socialalert/AlertPopUpDialog.java
+END
+SingleListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/svn_procit_devprojects/!svn/ver/18435/SamenSafe/source/trunk/src/com/android/socialalert/SingleListAdapter.java
+END
+FragmentShakeControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/svn_procit_devprojects/!svn/ver/18625/SamenSafe/source/trunk/src/com/android/socialalert/FragmentShakeControl.java
+END
+SelectLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/svn_procit_devprojects/!svn/ver/18625/SamenSafe/source/trunk/src/com/android/socialalert/SelectLanguage.java
+END
+AlertActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/svn_procit_devprojects/!svn/ver/19586/SamenSafe/source/trunk/src/com/android/socialalert/AlertActivity.java
+END
+FragmentSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/svn_procit_devprojects/!svn/ver/18625/SamenSafe/source/trunk/src/com/android/socialalert/FragmentSettings.java
+END
+ContactListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/svn_procit_devprojects/!svn/ver/18695/SamenSafe/source/trunk/src/com/android/socialalert/ContactListAdapter.java
+END
+AutoUpdateActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/svn_procit_devprojects/!svn/ver/19586/SamenSafe/source/trunk/src/com/android/socialalert/AutoUpdateActivity.java
+END
+FragmentSendAlertList.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/svn_procit_devprojects/!svn/ver/18760/SamenSafe/source/trunk/src/com/android/socialalert/FragmentSendAlertList.java
+END
+ContactDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/svn_procit_devprojects/!svn/ver/18760/SamenSafe/source/trunk/src/com/android/socialalert/ContactDetails.java
+END
+HomePageActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/svn_procit_devprojects/!svn/ver/18784/SamenSafe/source/trunk/src/com/android/socialalert/HomePageActivity.java
+END
+ContactListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/svn_procit_devprojects/!svn/ver/19586/SamenSafe/source/trunk/src/com/android/socialalert/ContactListActivity.java
+END
+UsersInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/svn_procit_devprojects/!svn/ver/19586/SamenSafe/source/trunk/src/com/android/socialalert/UsersInformation.java
+END
+ForgetPassword.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/svn_procit_devprojects/!svn/ver/18633/SamenSafe/source/trunk/src/com/android/socialalert/ForgetPassword.java
+END
+RecievedAlertAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/svn_procit_devprojects/!svn/ver/19586/SamenSafe/source/trunk/src/com/android/socialalert/RecievedAlertAdapter.java
+END
+FragementEditMainUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/svn_procit_devprojects/!svn/ver/19586/SamenSafe/source/trunk/src/com/android/socialalert/FragementEditMainUser.java
+END
+AlertInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/svn_procit_devprojects/!svn/ver/18435/SamenSafe/source/trunk/src/com/android/socialalert/AlertInfo.java
+END
+AlertInfoAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/svn_procit_devprojects/!svn/ver/18625/SamenSafe/source/trunk/src/com/android/socialalert/AlertInfoAdapter.java
+END
+PasswordChangeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/svn_procit_devprojects/!svn/ver/18633/SamenSafe/source/trunk/src/com/android/socialalert/PasswordChangeActivity.java
+END
+LoginActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/svn_procit_devprojects/!svn/ver/19586/SamenSafe/source/trunk/src/com/android/socialalert/LoginActivity.java
+END
+FragmentRecievedAlertList.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/svn_procit_devprojects/!svn/ver/18760/SamenSafe/source/trunk/src/com/android/socialalert/FragmentRecievedAlertList.java
+END
